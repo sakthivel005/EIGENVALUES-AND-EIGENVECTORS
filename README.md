@@ -28,7 +28,9 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 
 ## Output:
 
-![Screenshot from 2022-12-28 10-05-57](https://user-images.githubusercontent.com/120550359/209757995-9ad4ae60-9990-45c5-bd27-44d43806bfa8.png)
+![Screenshot from 2023-01-26 14-07-01](https://user-images.githubusercontent.com/120550359/214825511-f4ff6d82-433d-4527-9fff-6755308cfee7.png) ![Screenshot from 2023-01-26 14-07-21](https://user-images.githubusercontent.com/120550359/214825568-e79a92c4-3d51-4925-9071-0ec527fa2ebe.png)
+
+
 
  
 
