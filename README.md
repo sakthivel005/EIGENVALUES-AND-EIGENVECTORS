@@ -12,7 +12,9 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 2: 
 Prepare a list for each linear equation and assign in numpy.linalg()
 
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+### Step 3: 
+
+Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 
 ### Step 4: 
 Print the eigen value and eigen vector using print() function.End the program
